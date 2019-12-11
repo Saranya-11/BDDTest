@@ -14,6 +14,8 @@ And Select the Country as "<Country>"
 #Then Select The DOB as <Year> and <Month> and <Day>
 #Then Enter the Password as "<Password>" and "<Confirm Password>"
 #Then Click on Submit
+
+
 Examples:
 |FirstName|LastName|Emailaddress|Phone|Gender|Country|Year|Month|Day|Password|Confirm Password|
 |Annie|Ray|Annie_R@gmail.com|2125458787|FeMale|India|1960|November|30|Annie_Ray|Annie_Ray|
